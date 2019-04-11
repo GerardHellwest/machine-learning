@@ -1,6 +1,5 @@
-
 King Lear
-Shakespeare homepage | King Lear | Entire play
+Entire play
 ACT I
 SCENE I. King Lear's palace.
 Enter KENT, GLOUCESTER, and EDMUND
@@ -900,17 +899,17 @@ Giving KENT money
 
 Enter Fool
 
-Fool
+FOOL
 Let me hire him too: here's my coxcomb.
 Offering KENT his cap
 
 KING LEAR
 How now, my pretty knave! how dost thou?
-Fool
+FOOL
 Sirrah, you were best take my coxcomb.
 KENT
 Why, fool?
-Fool
+FOOL
 Why, for taking one's part that's out of favour:
 nay, an thou canst not smile as the wind sits,
 thou'lt catch cold shortly: there, take my coxcomb:
@@ -920,21 +919,21 @@ thou follow him, thou must needs wear my coxcomb.
 How now, nuncle! Would I had two coxcombs and two daughters!
 KING LEAR
 Why, my boy?
-Fool
+FOOL
 If I gave them all my living, I'ld keep my coxcombs
 myself. There's mine; beg another of thy daughters.
 KING LEAR
 Take heed, sirrah; the whip.
-Fool
+FOOL
 Truth's a dog must to kennel; he must be whipped
 out, when Lady the brach may stand by the fire and stink.
 KING LEAR
 A pestilent gall to me!
-Fool
+FOOL
 Sirrah, I'll teach thee a speech.
 KING LEAR
 Do.
-Fool
+FOOL
 Mark it, nuncle:
 Have more than thou showest,
 Speak less than thou knowest,
@@ -948,23 +947,23 @@ And thou shalt have more
 Than two tens to a score.
 KENT
 This is nothing, fool.
-Fool
+FOOL
 Then 'tis like the breath of an unfee'd lawyer; you
 gave me nothing for't. Can you make no use of
 nothing, nuncle?
 KING LEAR
 Why, no, boy; nothing can be made out of nothing.
-Fool
+FOOL
 [To KENT] Prithee, tell him, so much the rent of
 his land comes to: he will not believe a fool.
 KING LEAR
 A bitter fool!
-Fool
+FOOL
 Dost thou know the difference, my boy, between a
 bitter fool and a sweet fool?
 KING LEAR
 No, lad; teach me.
-Fool
+FOOL
 That lord that counsell'd thee
 To give away thy land,
 Come place him here by me,
@@ -975,12 +974,12 @@ The one in motley here,
 The other found out there.
 KING LEAR
 Dost thou call me fool, boy?
-Fool
+FOOL
 All thy other titles thou hast given away; that
 thou wast born with.
 KENT
 This is not altogether fool, my lord.
-Fool
+FOOL
 No, faith, lords and great men will not let me; if
 I had a monopoly out, they would have part on't:
 and ladies too, they will not let me have all fool
@@ -988,7 +987,7 @@ to myself; they'll be snatching. Give me an egg,
 nuncle, and I'll give thee two crowns.
 KING LEAR
 What two crowns shall they be?
-Fool
+FOOL
 Why, after I have cut the egg i' the middle, and eat
 up the meat, the two crowns of the egg. When thou
 clovest thy crown i' the middle, and gavest away
@@ -1005,7 +1004,7 @@ They know not how their wits to wear,
 Their manners are so apish.
 KING LEAR
 When were you wont to be so full of songs, sirrah?
-Fool
+FOOL
 I have used it, nuncle, ever since thou madest thy
 daughters thy mothers: for when thou gavest them
 the rod, and put'st down thine own breeches,
@@ -1019,7 +1018,7 @@ Prithee, nuncle, keep a schoolmaster that can teach
 thy fool to lie: I would fain learn to lie.
 KING LEAR
 An you lie, sirrah, we'll have you whipped.
-Fool
+FOOL
 I marvel what kin thou and thy daughters are:
 they'll have me whipped for speaking true, thou'lt
 have me whipped for lying; and sometimes I am
@@ -1033,7 +1032,7 @@ Enter GONERIL
 KING LEAR
 How now, daughter! what makes that frontlet on?
 Methinks you are too much of late i' the frown.
-Fool
+FOOL
 Thou wast a pretty fellow when thou hadst no need to
 care for her frowning; now thou art an O without a
 figure: I am better than thou art now; I am a fool,
@@ -1062,7 +1061,7 @@ Which, in the tender of a wholesome weal,
 Might in their working do you that offence,
 Which else were shame, that then necessity
 Will call discreet proceeding.
-Fool
+FOOL
 For, you trow, nuncle,
 The hedge-sparrow fed the cuckoo so long,
 That it's had it head bit off by it young.
@@ -1075,7 +1074,7 @@ I would you would make use of that good wisdom,
 Whereof I know you are fraught; and put away
 These dispositions, that of late transform you
 From what you rightly are.
-Fool
+FOOL
 May not an ass know when the cart
 draws the horse? Whoop, Jug! I love thee.
 KING LEAR
@@ -1084,13 +1083,13 @@ Doth Lear walk thus? speak thus? Where are his eyes?
 Either his notion weakens, his discernings
 Are lethargied--Ha! waking? 'tis not so.
 Who is it that can tell me who I am?
-Fool
+FOOL
 Lear's shadow.
 KING LEAR
 I would learn that; for, by the
 marks of sovereignty, knowledge, and reason,
 I should be false persuaded I had daughters.
-Fool
+FOOL
 Which they will make an obedient father.
 KING LEAR
 Your name, fair gentlewoman?
@@ -1213,7 +1212,7 @@ Pray you, content. What, Oswald, ho!
 To the Fool
 
 You, sir, more knave than fool, after your master.
-Fool
+FOOL
 Nuncle Lear, nuncle Lear, tarry and take the fool
 with thee.
 A fox, when one has caught her,
@@ -1268,7 +1267,7 @@ Well, well; the event.
 Exeunt
 
 SCENE V. Court before the same.
-Enter KING LEAR, KENT, and Fool
+Enter KING LEAR, KENT, and FOOL
 KING LEAR
 Go you before to Gloucester with these letters.
 Acquaint my daughter no further with any thing you
@@ -1279,62 +1278,62 @@ I will not sleep, my lord, till I have delivered
 your letter.
 Exit
 
-Fool
+FOOL
 If a man's brains were in's heels, were't not in
 danger of kibes?
 KING LEAR
 Ay, boy.
-Fool
+FOOL
 Then, I prithee, be merry; thy wit shall ne'er go
 slip-shod.
 KING LEAR
 Ha, ha, ha!
-Fool
+FOOL
 Shalt see thy other daughter will use thee kindly;
 for though she's as like this as a crab's like an
 apple, yet I can tell what I can tell.
 KING LEAR
 Why, what canst thou tell, my boy?
-Fool
+FOOL
 She will taste as like this as a crab does to a
 crab. Thou canst tell why one's nose stands i'
 the middle on's face?
 KING LEAR
 No.
-Fool
+FOOL
 Why, to keep one's eyes of either side's nose; that
 what a man cannot smell out, he may spy into.
 KING LEAR
 I did her wrong--
-Fool
+FOOL
 Canst tell how an oyster makes his shell?
 KING LEAR
 No.
-Fool
+FOOL
 Nor I neither; but I can tell why a snail has a house.
 KING LEAR
 Why?
-Fool
+FOOL
 Why, to put his head in; not to give it away to his
 daughters, and leave his horns without a case.
 KING LEAR
 I will forget my nature. So kind a father! Be my
 horses ready?
-Fool
+FOOL
 Thy asses are gone about 'em. The reason why the
 seven stars are no more than seven is a pretty reason.
 KING LEAR
 Because they are not eight?
-Fool
+FOOL
 Yes, indeed: thou wouldst make a good fool.
 KING LEAR
 To take 't again perforce! Monster ingratitude!
-Fool
+FOOL
 If thou wert my fool, nuncle, I'ld have thee beaten
 for being old before thy time.
 KING LEAR
 How's that?
-Fool
+FOOL
 Thou shouldst not have been old till thou hadst
 been wise.
 KING LEAR
@@ -1347,7 +1346,7 @@ Gentleman
 Ready, my lord.
 KING LEAR
 Come, boy.
-Fool
+FOOL
 She that's a maid now, and laughs at my departure,
 Shall not be a maid long, unless things be cut shorter.
 Exeunt
@@ -1842,7 +1841,7 @@ That's something yet: Edgar I nothing am.
 Exit
 
 SCENE IV. Before GLOUCESTER's castle. KENT in the stocks.
-Enter KING LEAR, Fool, and Gentleman
+Enter KING LEAR, FOOL, and Gentleman
 KING LEAR
 'Tis strange that they should so depart from home,
 And not send back my messenger.
@@ -1857,7 +1856,7 @@ Ha!
 Makest thou this shame thy pastime?
 KENT
 No, my lord.
-Fool
+FOOL
 Ha, ha! he wears cruel garters. Horses are tied
 by the heads, dogs and bears by the neck, monkeys by
 the loins, and men by the legs: when a man's
@@ -1912,7 +1911,7 @@ Having more man than wit about me, drew:
 He raised the house with loud and coward cries.
 Your son and daughter found this trespass worth
 The shame which here it suffers.
-Fool
+FOOL
 Winter's not gone yet, if the wild-geese fly that way.
 Fathers that wear rags
 Do make their children blind;
@@ -1938,12 +1937,12 @@ Made you no more offence but what you speak of?
 KENT
 None.
 How chance the king comes with so small a train?
-Fool
+FOOL
 And thou hadst been set i' the stocks for that
 question, thou hadst well deserved it.
 KENT
 Why, fool?
-Fool
+FOOL
 We'll set thee to school to an ant, to teach thee
 there's no labouring i' the winter. All that follow
 their noses are led by their eyes but blind men; and
@@ -1964,7 +1963,7 @@ The knave turns fool that runs away;
 The fool no knave, perdy.
 KENT
 Where learned you this, fool?
-Fool
+FOOL
 Not i' the stocks, fool.
 Re-enter KING LEAR with GLOUCESTER
 
@@ -2016,7 +2015,7 @@ Exit
 
 KING LEAR
 O me, my heart, my rising heart! but, down!
-Fool
+FOOL
 Cry to it, nuncle, as the cockney did to the eels
 when she put 'em i' the paste alive; she knapped 'em
 o' the coxcombs with a stick, and cried 'Down,
@@ -2269,7 +2268,7 @@ No, I'll not weep:
 I have full cause of weeping; but this heart
 Shall break into a hundred thousand flaws,
 Or ere I'll weep. O fool, I shall go mad!
-Exeunt KING LEAR, GLOUCESTER, KENT, and Fool
+Exeunt KING LEAR, GLOUCESTER, KENT, and FOOL
 
 Storm and tempest
 
@@ -2392,7 +2391,7 @@ Holla the other.
 Exeunt severally
 
 SCENE II. Another part of the heath. Storm still.
-Enter KING LEAR and Fool
+Enter KING LEAR and FOOL
 KING LEAR
 Blow, winds, and crack your cheeks! rage! blow!
 You cataracts and hurricanoes, spout
@@ -2403,7 +2402,7 @@ Singe my white head! And thou, all-shaking thunder,
 Smite flat the thick rotundity o' the world!
 Crack nature's moulds, an germens spill at once,
 That make ingrateful man!
-Fool
+FOOL
 O nuncle, court holy-water in a dry
 house is better than this rain-water out o' door.
 Good nuncle, in, and ask thy daughters' blessing:
@@ -2420,7 +2419,7 @@ But yet I call you servile ministers,
 That have with two pernicious daughters join'd
 Your high engender'd battles 'gainst a head
 So old and white as this. O! O! 'tis foul!
-Fool
+FOOL
 He that has a house to put's head in has a good
 head-piece.
 The cod-piece that will house
@@ -2440,7 +2439,7 @@ Enter KENT
 
 KENT
 Who's there?
-Fool
+FOOL
 Marry, here's grace and a cod-piece; that's a wise
 man and a fool.
 KENT
@@ -2483,7 +2482,7 @@ That can make vile things precious. Come,
 your hovel.
 Poor fool and knave, I have one part in my heart
 That's sorry yet for thee.
-Fool
+FOOL
 [Singing]
 He that has and a little tiny wit--
 With hey, ho, the wind and the rain,--
@@ -2493,7 +2492,7 @@ KING LEAR
 True, my good boy. Come, bring us to this hovel.
 Exeunt KING LEAR and KENT
 
-Fool
+FOOL
 This is a brave night to cool a courtezan.
 I'll speak a prophecy ere I go:
 When priests are more in word than matter;
@@ -2549,7 +2548,7 @@ The younger rises when the old doth fall.
 Exit
 
 SCENE IV. The heath. Before a hovel.
-Enter KING LEAR, KENT, and Fool
+Enter KING LEAR, KENT, and FOOL
 KENT
 Here is the place, my lord; good my lord, enter:
 The tyranny of the open night's too rough
@@ -2589,11 +2588,11 @@ KING LEAR
 Prithee, go in thyself: seek thine own ease:
 This tempest will not give me leave to ponder
 On things would hurt me more. But I'll go in.
-To the Fool
+To the FOOL
 
 In, boy; go first. You houseless poverty,--
 Nay, get thee in. I'll pray, and then I'll sleep.
-Fool goes in
+FOOL goes in
 
 Poor naked wretches, whereso'er you are,
 That bide the pelting of this pitiless storm,
@@ -2606,14 +2605,14 @@ That thou mayst shake the superflux to them,
 And show the heavens more just.
 EDGAR
 [Within] Fathom and half, fathom and half! Poor Tom!
-The Fool runs out from the hovel
+The FOOL runs out from the hovel
 
-Fool
+FOOL
 Come not in here, nuncle, here's a spirit
 Help me, help me!
 KENT
 Give me thy hand. Who's there?
-Fool
+FOOL
 A spirit, a spirit: he says his name's poor Tom.
 KENT
 What art thou that dost grumble there i' the straw?
@@ -2645,7 +2644,7 @@ Storm still
 KING LEAR
 What, have his daughters brought him to this pass?
 Couldst thou save nothing? Didst thou give them all?
-Fool
+FOOL
 Nay, he reserved a blanket, else we had been all shamed.
 KING LEAR
 Now, all the plagues that in the pendulous air
@@ -2662,7 +2661,7 @@ Those pelican daughters.
 EDGAR
 Pillicock sat on Pillicock-hill:
 Halloo, halloo, loo, loo!
-Fool
+FOOL
 This cold night will turn us all to fools and madmen.
 EDGAR
 Take heed o' the foul fiend: obey thy parents;
@@ -2703,7 +2702,7 @@ forked animal as thou art. Off, off, you lendings!
 come unbutton here.
 Tearing off his clothes
 
-Fool
+FOOL
 Prithee, nuncle, be contented; 'tis a naughty night
 to swim in. Now a little fire in a wild field were
 like an old lecher's heart; a small spark, all the
@@ -2856,7 +2855,7 @@ dearer father in my love.
 Exeunt
 
 SCENE VI. A chamber in a farmhouse adjoining the castle.
-Enter GLOUCESTER, KING LEAR, KENT, Fool, and EDGAR
+Enter GLOUCESTER, KING LEAR, KENT, FOOL, and EDGAR
 GLOUCESTER
 Here is better than the open air; take it
 thankfully. I will piece out the comfort with what
@@ -2870,12 +2869,12 @@ EDGAR
 Frateretto calls me; and tells me
 Nero is an angler in the lake of darkness.
 Pray, innocent, and beware the foul fiend.
-Fool
+FOOL
 Prithee, nuncle, tell me whether a madman be a
 gentleman or a yeoman?
 KING LEAR
 A king, a king!
-Fool
+FOOL
 No, he's a yeoman that has a gentleman to his son;
 for he's a mad yeoman that sees his son a gentleman
 before him.
@@ -2884,7 +2883,7 @@ To have a thousand with red burning spits
 Come hissing in upon 'em,--
 EDGAR
 The foul fiend bites my back.
-Fool
+FOOL
 He's mad that trusts in the tameness of a wolf, a
 horse's health, a boy's love, or a whore's oath.
 KING LEAR
@@ -2892,14 +2891,14 @@ It shall be done; I will arraign them straight.
 To EDGAR
 
 Come, sit thou here, most learned justicer;
-To the Fool
+To the FOOL
 
 Thou, sapient sir, sit here. Now, you she foxes!
 EDGAR
 Look, where he stands and glares!
 Wantest thou eyes at trial, madam?
 Come o'er the bourn, Bessy, to me,--
-Fool
+FOOL
 Her boat hath a leak,
 And she must not speak
 Why she dares not come over to thee.
@@ -2916,7 +2915,7 @@ I'll see their trial first. Bring in the evidence.
 To EDGAR
 
 Thou robed man of justice, take thy place;
-To the Fool
+To the FOOL
 
 And thou, his yoke-fellow of equity,
 Bench by his side:
@@ -2935,11 +2934,11 @@ KING LEAR
 Arraign her first; 'tis Goneril. I here take my
 oath before this honourable assembly, she kicked the
 poor king her father.
-Fool
+FOOL
 Come hither, mistress. Is your name Goneril?
 KING LEAR
 She cannot deny it.
-Fool
+FOOL
 Cry you mercy, I took you for a joint-stool.
 KING LEAR
 And here's another, whose warp'd looks proclaim
@@ -2983,7 +2982,7 @@ Now, good my lord, lie here and rest awhile.
 KING LEAR
 Make no noise, make no noise; draw the curtains:
 so, so, so. We'll go to supper i' he morning. So, so, so.
-Fool
+FOOL
 And I'll go to bed at noon.
 Re-enter GLOUCESTER
 
@@ -3007,7 +3006,7 @@ Oppressed nature sleeps:
 This rest might yet have balm'd thy broken senses,
 Which, if convenience will not allow,
 Stand in hard cure.
-To the Fool
+To the FOOL
 
 Come, help to bear thy master;
 Thou must not stay behind.
